@@ -1,4 +1,4 @@
-const lengthOfLongestSubstring = require('./lengthOfLongestSubstring');
+const lengthOfLongestSubstring = require('./longestSubstring');
 
 describe("lengthOfLongestSubstring(string) find the length of the longest substring without repeating characters", () => {
     test("lengthOfLongestSubstring(abcabcbb) => 3", () => {
